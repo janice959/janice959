@@ -1,6 +1,6 @@
 <h1>Hi, I'm Janice Willa Francisco 👋</h1>
 
-**Web Designer & AI-Assisted Developer** based in Mandaluyong, Philippines.
+**Web Designer & AI-Assisted Developer** based in Mandaluyong, Philippines · 🌐 **[janicewillafrancisco.com](https://www.janicewillafrancisco.com)**
 
 I design and build clean, strategic websites that help small businesses look established, earn trust and win clients. Before moving into web design I spent 7+ years in client-facing support roles, so I build with the visitor in mind: clear structure, fast pages and an easy path to "book" or "buy".
 
@@ -30,7 +30,8 @@ I also run **[NexScale Digital](https://nexscaledigital.shop)**, a small studio 
 
 ### 📫 Let's work together
 
-- LinkedIn: [Janice Willa](https://www.linkedin.com/in/janicewilla-badua-79a719200)
+- Portfolio: [janicewillafrancisco.com](https://www.janicewillafrancisco.com)
+- LinkedIn: [Janice Willa Francisco](https://www.linkedin.com/in/janicewilla-badua-79a719200)
 - Email: [Janicewilla.badua@gmail.com](mailto:Janicewilla.badua@gmail.com)
 - Shop: [nexscaledigital.shop](https://nexscaledigital.shop)
 
