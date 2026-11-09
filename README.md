@@ -32,7 +32,7 @@ I also run **[NexScale Digital](https://nexscaledigital.shop)**, a small studio 
 
 - Portfolio: [janicewillafrancisco.com](https://www.janicewillafrancisco.com)
 - LinkedIn: [Janice Willa Francisco](https://www.linkedin.com/in/janicewilla-badua-79a719200)
-- Email: [Janicewilla.badua@gmail.com](mailto:Janicewilla.badua@gmail.com)
+- Email: [hello@janicewillafrancisco.com](mailto:hello@janicewillafrancisco.com)
 - Shop: [nexscaledigital.shop](https://nexscaledigital.shop)
 
 I'm currently **available for freelance projects**. If you need a website that looks as good as your business, I'd love to hear about it.
